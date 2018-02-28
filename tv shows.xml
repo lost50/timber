@@ -13,3 +13,13 @@
 <title>Beast list</title>
 <tmdb>list/https://www.themoviedb.org/list/47690</tmdb>
 </dir>
+
+<dir>
+<title>Networks</title>
+<tmdb>https://raw.githubusercontent.com/lost50/timber/master/networks.xml</tmdb>
+</dir>
+
+<dir>
+<title>genre_tv</title>
+<tmdb>https://raw.githubusercontent.com/lost50/timber/master/genre_tv.xml</tmdb>
+</dir>
