@@ -1,0 +1,62 @@
+<dir>
+    <title>Movie Genres</title>
+    <link>https://raw.githubusercontent.com/Trapper69/trappor/master/genre_movies.xml</link>
+  </dir>
+  
+<dir>
+<title>Movie Years</title>
+<link>https://raw.githubusercontent.com/Trapper69/trappor/master/tmdbyear2.xml</link>
+</dir>
+ 
+<dir>
+<title>Networks</title>
+<link>https://raw.githubusercontent.com/Trapper69/trappor/master/networks.xml</link>
+</dir>
+
+<dir>
+	<title>IMDB Action TV Shows</title>
+	<imdburl>genres/action</imdburl>
+	<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<title>Search TMDB</title>
+<tmdb>search</tmdb>
+</dir>
+
+<dir>
+      <title>TMDB Popular</title>
+      <tmdb>movies/popular</tmdb> 
+</dir>
+
+<dir>
+      <title>TMDB Now Playing</title>
+      <tmdb>movies/now_playing</tmdb>
+</dir>
+  
+  <dir>
+  <title>Search Add On</title>
+  <trakt>search</trakt>
+</dir>
+
+<dir>
+<title>Search Internet Movies</title>
+<tmdb>search</tmdb>
+
+</xml><plugin>
+<name>settings</name>
+<link>plugin://plugin.video.Trapper/?action=openSettings</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<name>search</name>
+<link>plugin://plugin.video.Trapper/?action=search</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<name>Testings</name>
+<link>plugin://plugin.video.jen/?action=developer</link>
+<thumbnail></thumbnail>
+</plugin>

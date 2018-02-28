@@ -1,0 +1,14 @@
+<dir>
+<title>DC</title>
+<link>https://raw.githubusercontent.com/Trapper69/trappor/master/DC.xml</link>
+</dir>
+
+<dir>
+<title>animes tv</title>
+<tmdb>list/https://www.themoviedb.org/list/47315</tmdb>
+</dir>
+
+<dir>
+<title>Disney Classic Collection</title>
+<tmdb>list/https://www.themoviedb.org/list/338</tmdb>
+</dir>

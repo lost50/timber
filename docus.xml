@@ -1,0 +1,107 @@
+item>
+	<title>[COLORgreenyellow]NatGeo Wild (LIVE TV)[/COLOR] (currenty down)</title>
+	<link>http://cdnworld.magictvbox.eu/Nat_Geo_Wild_HD/tracks-v1a1/index.m3u8?token=soc4up</link>
+	<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+plugin>
+	<title>[COLORgreenyellow]Discovery ID Channel (LIVE TV)[/COLOR]</title> 
+	<link>
+	<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/69111/ID---Investigation-Discovery-(HD)</sublink>
+	</link> 
+	<thumbnail>https://</thumbnail> 
+	<fanart></fanart> 
+</plugin>
+
+plugin>
+	<title>[COLORgreenyellow]National Geographic HD (LIVE TV)[/COLOR]</title>
+	<link>
+	<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/68872/National-Geographic-(HD)</sublink>
+	</link> 
+	<thumbnail>https://</thumbnail> 
+	<fanart></fanart> 
+</plugin>
+
+plugin>
+	<title>[COLORgreenyellow]Discovery HD (LIVE TV)[/COLOR]</title>
+	<link>
+	<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/69112/Discovery-(HD)</sublink>
+	</link> 
+	<thumbnail>https://</thumbnail> 
+	<fanart></fanart> 
+</plugin>
+
+plugin>
+	<title>[COLORgreenyellow]History Channel HD (LIVE TV)[/COLOR]</title>
+	<link>
+	<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/39949/History-(HD)</sublink>
+	</link> 
+	<thumbnail>https://</thumbnail> 
+	<fanart></fanart> 
+</plugin>
+
+<dir>
+	<title>[COLORgreenyellow]V[COLOR snow]arious Documentary[/COLOR]</title>
+	<tmdb>list/39869</tmdb>
+	<thumbnail>https://</thumbnail>
+    <fanart>https://</fanart>
+	<summary></summary>
+</dir>
+
+<plugin>
+	<title>[COLORgreenyellow]DW [COLOR snow]Documentaries[/COLOR]</title>
+	<link>plugin://plugin.video.youtube/channel/UCW39zufHfsuGgpLviKh297Q/playlists/</link>
+	<thumbnail>https://</thumbnail>
+	<fanart>http://</fanart>
+	<summary></summary>
+</plugin>
+
+<plugin>
+	<title>[COLORgreenyellow]N[COLOR snow]at Geo Documentaries[/COLOR]</title>
+	<link>plugin://plugin.video.youtube/channel/UCpVm7bg6pXKo1Pr6k5kxG9A/playlists/</link>
+	<thumbnail>https://</thumbnail>
+	<fanart>http://</fanart>
+	<summary></summary>
+</plugin>
+
+<plugin>
+	<title>[COLORgreenyellow]F[COLOR snow]irst Documentaries[/COLOR]</title>
+	<link>plugin://plugin.video.youtube/user/Yolin892/playlists/</link>
+	<thumbnail>https://</thumbnail>
+	<fanart>http://</fanart>
+	<summary></summary>
+</plugin>
+
+
+<dir>
+	<title>[COLORgreenyellow]N[COLOR snow]ature[/COLOR]</title>
+	<tmdb>list/44309</tmdb>
+	<thumbnail>https://</thumbnail>
+	<fanart>http://</fanart>
+	<summary></summary>
+</dir>
+
+<dir>
+	<title>[COLORgreenyellow]F[COLOR snow]actual Reality Shows[/COLOR]</title>
+	<tmdb>list/44311</tmdb>
+	<thumbnail>https://</thumbnail>
+	<fanart>http://</fanart>
+	<summary></summary>
+</dir>
+
+<dir>
+	<title>[COLORgreenyellow]W[COLOR snow]ar[/COLOR]</title>
+	<tmdb>list/44313</tmdb>
+	<thumbnail>http://</thumbnail>
+	<fanart>http://</fanart>
+	<summary></summary>
+</dir>
+
+<dir>
+    <title>[COLORgreenyellow]W[COLOR snow]eird & Strange[/COLOR]</title>
+    <tmdb>list/40194</tmdb>
+	<thumbnail>https://</thumbnail>
+	<fanart>http://</fanart>
+	<summary></summary>
+</dir>
