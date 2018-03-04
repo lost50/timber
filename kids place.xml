@@ -13,7 +13,3 @@
 <tmdb>list/https://www.themoviedb.org/list/338</tmdb>
 </dir>
 
-<dir>
-<title>kids_boxset</title>
-<tmdb>https://raw.githubusercontent.com/lost50/timber/master/kids_boxset.xml</tmdb>
-</dir>
