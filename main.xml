@@ -10,6 +10,21 @@
   </dir>
 </xml>
 
+<dir>
+  <title>Flicks</title>
+  <link>https://raw.githubusercontent.com/lost50/timber/master/Flicks.xml</link>
+</dir>
+
+<dir>
+    <title>Eye</title>
+    <link>https://raw.githubusercontent.com/lost50/beast/master/Eye.xml</link>
+</dir>
+
+<dir>
+    <title>List</title>
+    <link>https://raw.githubusercontent.com/lost50/beast/master/action%20list.xml</link>
+</dir>
+
   <dir>
     <title>Urban</title>
     <link>https://raw.githubusercontent.com/lost50/timber/master/Urban.xml</link>
