@@ -11,11 +11,6 @@
 </xml>
 
 <dir>
-  <title>Boxsets</title>
-  <link>https://raw.githubusercontent.com/lost50/timber/master/boxsets.xml</link>
-</dir>
-
-<dir>
   <title>Flicks</title>
   <link>https://raw.githubusercontent.com/lost50/timber/master/Flicks.xml</link>
 </dir>
@@ -56,10 +51,15 @@
 <xml>
 
  <dir>
-    <title>Trakt</title>
-    <link>https://raw.githubusercontent.com/lost50/timber/master/tv.xml</link>
+    <title>tmdb</title>
+    <link>https://raw.githubusercontent.com/lost50/beast/master/tv.xml</link>
   </dir>
 
+<dir>
+    <title>Genre Tv</title>
+    <link>https://raw.githubusercontent.com/lost50/beast/master/genre_tv.xml</link>
+  </dir>
+  
 <dir>
     <title>Releass</title>
     <link>https://raw.githubusercontent.com/lost50/timber/master/Releass.xml</link>
