@@ -11,6 +11,11 @@
 </xml>
 
 <dir>
+  <title>Boxsets</title>
+  <link>https://raw.githubusercontent.com/lost50/timber/master/boxsets.xml</link>
+</dir>
+
+<dir>
   <title>Flicks</title>
   <link>https://raw.githubusercontent.com/lost50/timber/master/Flicks.xml</link>
 </dir>
