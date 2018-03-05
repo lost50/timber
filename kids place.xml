@@ -13,3 +13,14 @@
 <tmdb>list/https://www.themoviedb.org/list/338</tmdb>
 </dir>
 
+<dir>
+    <title>kids place</title>
+    <link>https://raw.githubusercontent.com/lost50/beast/master/kidsmain.xml</link>
+  </dir>
+</xml>
+
+<dir>
+    <title>kids boxset</title>
+    <link>https://raw.githubusercontent.com/lost50/beast/master/kids_boxset.xml</link>
+  </dir>
+</xml>
