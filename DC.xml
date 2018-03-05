@@ -627,37 +627,3 @@
         <animated_fanart></animated_fanart>
         <fanart></fanart>
 </item>
-<item>
-        <title></title>
-        <meta>
-                <content>movie</content>
-                <imdb></imdb>
-                <title></title>
-                <year></year>
-        </meta>
-        <link>
-                <sublink>LINK</sublink>
-                <sublink>searchsd</sublink>
-        </link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
-</item>
-<item>
-        <title></title>
-        <meta>
-                <content>movie</content>
-                <imdb></imdb>
-                <title></title>
-                <year></year>
-        </meta>
-        <link>
-                <sublink>LINK</sublink>
-                <sublink>searchsd</sublink>
-        </link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
-</item>
