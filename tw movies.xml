@@ -1,0 +1,30 @@
+<dir>
+    <title>Action List</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/action%20list.xml</link>
+</dir>
+
+<dir>
+  <title>Movies Boxset</title>
+  <link>https://raw.githubusercontent.com/lost50/collector/master/Movie%20Boxset.xml</link>
+</dir>
+
+<dir>
+  <title>Movie Flicks</title>
+  <link>https://raw.githubusercontent.com/lost50/collector/master/Flicks.xml</link>
+</dir>
+
+<dir>
+  <title>Movie Pack</title>
+  <link>https://raw.githubusercontent.com/lost50/collector/master/Movie%20Pack.xml</link>
+</dir>
+
+<dir>
+    <title>Movies Picks</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/movies.xml</link>
+</dir>
+
+ <dir>
+    <title>Eye Movis list</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/Eye.xml</link>
+</dir>
+
